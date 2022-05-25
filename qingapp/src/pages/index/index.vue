@@ -22,7 +22,7 @@
             </div>
           </div>
           <div class="data">
-            <img class="data-logo" src="/static/images/wendu.png">
+            <img class="data-logo" src="/static/images/shidu.png">
             <div class="data-text">
               <div class="data-title">湿度</div>
               <div class="data-value">{{Hum}}%</div>
@@ -31,14 +31,14 @@
         </div>
         <div class="data-wrapper">
           <div class="data">
-            <img class="data-logo" src="/static/images/wendu.png">
+            <img class="data-logo" src="/static/images/mq135.png">
             <div class="data-text">
               <div class="data-title">MQ135</div>
               <div class="data-value">{{MQ135}}</div>
             </div>
           </div>
           <div class="data">
-            <img class="data-logo" src="/static/images/wendu.png">
+            <img class="data-logo" src="/static/images/led.png">
             <div class="data-text">
               <div class="data-title">灯光</div>
               <div class="data-value">
@@ -49,7 +49,7 @@
         </div>
         <div class="data-wrapper">
           <div class="data">
-            <img class="data-logo" src="/static/images/wendu.png">
+            <img class="data-logo" src="/static/images/relay.png">
             <div class="data-text">
               <div class="data-title">插座</div>
               <div class="data-value">
@@ -58,7 +58,7 @@
             </div>
           </div>
           <div class="data">
-            <img class="data-logo" src="/static/images/wendu.png">
+            <img class="data-logo" src="/static/images/door.png">
             <div class="data-text">
               <div class="data-title">门</div>
               <div class="data-value">
@@ -69,7 +69,7 @@
         </div>
         <div class="data-wrapper">
           <div class="data">
-            <img class="data-logo" src="/static/images/wendu.png">
+            <img class="data-logo" src="/static/images/anfang.png">
             <div class="data-text">
               <div class="data-title">安防</div>
               <div class="data-value">
