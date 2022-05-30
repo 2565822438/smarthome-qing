@@ -143,7 +143,7 @@ export default {
               Toast.success('注册成功')
             },
             fail (res) {
-              Toast.success('注册失败')
+              Toast.fail('注册失败')
             }
           })
         }else{
@@ -223,7 +223,7 @@ export default {
             fail (res) {
               console.log(res.data);
               console.log('密码重置失败');
-              Toast.success('密码重置失败')
+              Toast.fail('密码重置失败')
             }
           })
     },
